@@ -32,7 +32,7 @@ Advanced Wait Time Predictions for EV Charging Stations in Optimal Paths
 
 5. What dataset(s) do you plan to use, and how will you obtain the data?
 
-    - I will use the ![Palo Alto Electric Vehicle Charging Station Usage dataset (July 2011 - Dec 2017)](https://data.cityofpaloalto.org/dataviews/244892/electric-vehicle-charging-station-usage-july-2011-dec-2017/)
+    - I will use the [Palo Alto Electric Vehicle Charging Station Usage dataset (July 2011 - Dec 2017)](https://data.cityofpaloalto.org/dataviews/244892/electric-vehicle-charging-station-usage-july-2011-dec-2017/)
 
 
 
