@@ -1,4 +1,4 @@
-![Header](https://github.com/CeliaSagas/Data-Coin/blob/22e52e1de616e88af6ab14222d8782ff1b13464e/coin-spin-4.gif "header" )
+![Header](https://github.com/CeliaSagas/EV-Queue/blob/66e64a81f41efb59c3fc9e36ea6a7e398dc73a96/img/EV%20Queue.jpg)
 
 
 
@@ -25,7 +25,7 @@ The following transformations were performed on the data in order to support fur
 
 **Visualizations for All Stations:**
 
-![Number of Transactions by Time Window for All Stations](https://github.com/CeliaSagas/Data-Coin/blob/22583032ecc7f28e60e0e58b921188df5765866f/PredvsActual.png)
+![Number of Transactions by Time Window for All Stations](https://github.com/CeliaSagas/EV-Queue/blob/66e64a81f41efb59c3fc9e36ea6a7e398dc73a96/img/numbertransallstations.jpg)
 
 The busiest time for all stations is the early morning between the hours of 6 AM and 12 PM, represented by an increase in the number of transactions during those time windows.
 
@@ -33,22 +33,22 @@ The busiest time for all stations is the early morning between the hours of 6 AM
 
 Therefore, revenue per time window will be investigated on a per station basis. 445 Bryant St. was chosen as it has the most number of plugs (12).
 
-![Total kWh Revenue and Station Usage by Time Window](https://github.com/CeliaSagas/Data-Coin/blob/22583032ecc7f28e60e0e58b921188df5765866f/Residual.png)
+![Total kWh Revenue and Station Usage by Time Window](https://github.com/CeliaSagas/EV-Queue/blob/66e64a81f41efb59c3fc9e36ea6a7e398dc73a96/img/totalbyusage.jpg)
 
 The most amount of revenue is generated at the busiest time of day, between the hours of 8 am and 12 pm, when almost 40% of the available plugs are used by consumers.
 
-![Average kWh Revenue per Transaction](https://github.com/CeliaSagas/Data-Coin/blob/22583032ecc7f28e60e0e58b921188df5765866f/QQ.png)
+![Average kWh Revenue per Transaction](https://github.com/CeliaSagas/EV-Queue/blob/66e64a81f41efb59c3fc9e36ea6a7e398dc73a96/img/averagebyusage.jpg)
 
 However, when looking at revenue per transaction, the most lucrative transactions occur overnight, between the hours of 10 PM - 2 AM.
 
-![Duration by Percent](https://github.com/CeliaSagas/Data-Coin/blob/22583032ecc7f28e60e0e58b921188df5765866f/QQ.png)
+![Duration by Percent](https://github.com/CeliaSagas/EV-Queue/blob/66e64a81f41efb59c3fc9e36ea6a7e398dc73a96/img/durationbypercent.jpg)
 
 When looking at the average duration time of transactions, the busiest time of day, between 10 AM - 12 PM, also represents the shortest transaction times (2.25 hrs or less)
 
 
 **Next Steps:**
 
-    - Generate indivual station df's for all stations
+    - Generate individual station df's for all stations
     - Model variable pricing, incentivizing overnight parking
-    - Create a tableu dashboard to visualize changes in pricing strategies easily
+    - Create a tableau dashboard to visualize changes in pricing strategies easily
     - Project an increase in transactions over time, and generate wait times for the increase in traffic based on current patterns.
