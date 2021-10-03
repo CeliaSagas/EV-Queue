@@ -35,7 +35,7 @@ Therefore, revenue per time window will be investigated on a per station basis. 
 
 ![Total kWh Revenue and Station Usage by Time Window](https://github.com/CeliaSagas/EV-Queue/blob/66e64a81f41efb59c3fc9e36ea6a7e398dc73a96/img/totalbyusage.jpg)
 
-The most amount of revenue is generated at the busiest time of day, between the hours of 8 am and 12 pm, when almost 40% of the available plugs are used by consumers.
+The most amount of revenue is generated at the busiest time of day, between the hours of 8 am and 12 pm, when almost 35% of the available plugs are used by consumers.
 
 ![Average kWh Revenue per Transaction](https://github.com/CeliaSagas/EV-Queue/blob/66e64a81f41efb59c3fc9e36ea6a7e398dc73a96/img/averagebyusage.jpg)
 
@@ -44,6 +44,8 @@ However, when looking at revenue per transaction, the most lucrative transaction
 ![Duration by Percent](https://github.com/CeliaSagas/EV-Queue/blob/66e64a81f41efb59c3fc9e36ea6a7e398dc73a96/img/durationbypercent.jpg)
 
 When looking at the average duration time of transactions, the busiest time of day, between 10 AM - 12 PM, also represents the shortest transaction times (2.25 hrs or less)
+
+Therefore, the greatest immediate opportunity for increasing revenue is in incentivizing overnight use of the EV station by using a variable pricing model based on the current energy pricing standards set by Pacific Gas & Electric Company, the energy supplier for the region.
 
 
 **Next Steps:**
