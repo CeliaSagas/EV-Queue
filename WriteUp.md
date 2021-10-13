@@ -47,6 +47,7 @@ In addition to slides and visuals presented at the Metis Business Fundamentals f
 
 
 **Dashboards**
+
 [User Dashboard - Predicted Wait Times](https://public.tableau.com/app/profile/celia.sagastume/viz/PaloAltoElectricVehicleChargingStations-UserDashboard/UserDashboard)
 
 [Station Dashboard - Revenue](https://public.tableau.com/app/profile/celia.sagastume/viz/PaloAltoElectricVehicleChargingStations-StationDashboard/StationDashboard)
