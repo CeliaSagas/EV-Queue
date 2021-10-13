@@ -6,19 +6,18 @@
 # EV-Queue
 Optimizing Electric Vehicle Charging Stations for Increased Use
 
-**Design**
+**Design** :notebook_with_decorative_cover:
 
-This project is inspired by an experimental project in [Electric Vehicle Route Planning Design](https://arxiv.org/abs/2102.06503) published by Sven Schoenberg and Falko Dressler published on [arXiv.org](https://arxiv.org/). The researchers proposed an adaptive charging and routing strategy by employing a central charging station database that helps estimate wait times at charging stations ahead of the anticipated arrival of EV users. For this project, publicly shared data from the [Open Data Portal](https://data.cityofpaloalto.org/home) of Palo Alto, California. [Electric Vehicle Charging Station Data](https://data.cityofpaloalto.org/dataviews/257812/ELECT-VEHIC-CHARG-STATI-83602/) was collected from 8 publicly owned Electric Vehicle Stations comprised of 59 individual plugs for Electric Vehicle charging over the course of 9 years, from July 2011 - December 2020. In an extensive simulation conducted by the researchers Schoenberg & Dressler, wait times were reduced by up to 97% by using adaptive route planning. Substantially reducing wait times can contribute to a growing confidence amongst EV users, and further adoption of EV’s across the globe, thereby reducing global Co2 emissions.
+This project is inspired by an experimental project in [Electric Vehicle Route Planning Design](https://arxiv.org/abs/2102.06503) published by Schoenberg & Dressler published on [arXiv.org](https://arxiv.org/). The researchers proposed an adaptive charging and routing strategy by employing a central charging station database that helps estimate wait times at charging stations ahead of the anticipated arrival of EV users. For this project, publicly shared [Electric Vehicle Charging Station Data](https://data.cityofpaloalto.org/dataviews/257812/ELECT-VEHIC-CHARG-STATI-83602/) was collected on 8 publicly owned Electric Vehicle Stations comprised of 59 individual plugs for Electric Vehicle charging over the course of 1 year and used to generate predicted wait times and variable rates of charge.
 
-
-**Data**
+**Data** :file_folder:
 
 The dataset contains 47,735 individual transactions with 39 features for each, 12 of which are categorical. A few feature highlights include the Start Time and End Time of a transaction, the amount kWh used, the unique station and plug identifier, and the total fee paid by the user.  Three dimensions (Station Address, Station Name, and Port Number) were combined to create unique identifiers for each charging plug at each station, and an in-depth analysis of 10 numerical features was conducted in order to create predicted wait times and apply variable rates.
 
 
-**Algorithms**
+**Algorithms** :computer:
 
-**Feature Engineering**
+**Feature Engineering** :triangular_ruler:
 
 The following transformations were performed on the data in order to support further analysis:
 
@@ -31,22 +30,22 @@ The following transformations were performed on the data in order to support fur
   7. Derived number of transactions initiated and number of cars still parked at the station for each station and time window
 
 
-**Proposed Model**
+**Proposed Model** :dart:
 
 The proposed model for this data is a SARIMA Time Series predictive model, as this data shows time series patterns on Week, Month, Day, and Time Window dimensions.
 
-**Tools**
+**Tools** :hammer:
 
   - Timedelta and Pandas for initial data cleaning
   - Excel for data manipulation and feature engineering
   - Tableau for interactive visualizations
 
-**Communication**
+**Communication** :mega:
 
 In addition to slides and visuals presented at the Metis Business Fundamentals final presentation, this project will be published on GitHub, Medium, Linkedin, and my personal website.
 
 
-**Dashboards**
+**Dashboards** :bar_chart:
 
 [User Dashboard - Predicted Wait Times](https://public.tableau.com/app/profile/celia.sagastume/viz/PaloAltoElectricVehicleChargingStations-UserDashboard/UserDashboard)
 
