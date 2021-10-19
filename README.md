@@ -24,18 +24,23 @@ The idea is that by offering the information to the consumer, traffic buildups c
 
 This project uses Python packages pandas and datetime, Excel, and Tableau.
 
-![Time Series Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/TimeSeriesDashboard.png)
+[Time Series Dashboard](https://public.tableau.com/app/profile/celia.sagastume/viz/PaloAltoElectricVehicleChargingStations-TimeSeriesDashboard/EVChargingStations-TimeSeries)
 
-There are weekly, monthly, daily, and hourly patterns overall and also for each individual station.
+[Time Series Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/TimeSeriesDashboard.png)
 
 
-![User Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/UserDashboard.png)
 
-The user dashboard offers electric vehicle owners predicted wait times, number of available charging ports, average transactions, and transaction duration per time window for each station.
+[User Dashboard](https://public.tableau.com/app/profile/celia.sagastume/viz/PaloAltoElectricVehicleChargingStations-StationDashboard/StationDashboard)
 
-![Station Owner Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/StationDashboard.png)
+[User Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/UserDashboard.png)
 
-The station owner dashboard gives owners the opportunity to track transactions and revenue for each station by time window, and test out variable rate opportunities.
+
+
+[Station Owner Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/StationDashboard.png)
+
+[Station Owner Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/StationDashboard.png)
+
+
 
 
 # Table of contents
