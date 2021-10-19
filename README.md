@@ -24,23 +24,23 @@ The idea is that by offering the information to the consumer, traffic buildups c
 
 This project uses Python packages pandas and datetime, Excel, and Tableau.
 
-[Time Series Dashboard](https://public.tableau.com/app/profile/celia.sagastume/viz/PaloAltoElectricVehicleChargingStations-TimeSeriesDashboard/EVChargingStations-TimeSeries)
+
 
 ![Time Series Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/TimeSeriesDashboard.png)
 
+Find the [Time Series Dashboard](https://public.tableau.com/app/profile/celia.sagastume/viz/PaloAltoElectricVehicleChargingStations-TimeSeriesDashboard/EVChargingStations-TimeSeries) here.
 
 
-[User Dashboard](https://public.tableau.com/app/profile/celia.sagastume/viz/PaloAltoElectricVehicleChargingStations-StationDashboard/StationDashboard)
 
 ![User Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/UserDashboard.png)
 
+Find the [User Dashboard](https://public.tableau.com/app/profile/celia.sagastume/viz/PaloAltoElectricVehicleChargingStations-StationDashboard/StationDashboard) here.
 
 
-[Station Owner Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/StationDashboard.png)
 
 ![Station Owner Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/StationDashboard.png)
 
-
+Find the [Station Owner Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/StationDashboard.png) here. 
 
 
 # Table of contents
