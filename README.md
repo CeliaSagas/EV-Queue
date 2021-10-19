@@ -24,16 +24,16 @@ The idea is that by offering the information to the consumer, traffic buildups c
 
 This project uses Python packages pandas and datetime, Excel, and Tableau.
 
-![Time Series Dashboard](https://github.com/CeliaSagas/Data-Coin/blob/12b8f09a65710ad579b19c905886df361f192a97/img/salary_hist.png)
+![Time Series Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/TimeSeriesDashboard.png)
 
 There are weekly, monthly, daily, and hourly patterns overall and also for each individual station.
 
 
-![User Dashboard](https://github.com/CeliaSagas/Data-Coin/blob/12b8f09a65710ad579b19c905886df361f192a97/img/revenue_bar.png)
+![User Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/UserDashboard.png)
 
 The user dashboard offers electric vehicle owners predicted wait times, number of available charging ports, average transactions, and transaction duration per time window for each station.
 
-![Station Owner Dashboard](https://github.com/CeliaSagas/Data-Coin/blob/12b8f09a65710ad579b19c905886df361f192a97/img/location_bar.png)
+![Station Owner Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/StationDashboard.png)
 
 The station owner dashboard gives owners the opportunity to track transactions and revenue for each station by time window, and test out variable rate opportunities.
 
@@ -84,4 +84,4 @@ Here here to the age of Electricity!
 
 <!-- Add the footer here -->
 
-![Footer](https://github.com/CeliaSagas/Data-Coin/blob/12b8f09a65710ad579b19c905886df361f192a97/img/datacoinfooter.png)
+![Footer](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/evqueuefooter.png)
