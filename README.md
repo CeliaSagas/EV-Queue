@@ -13,6 +13,8 @@
 
 <!-- Describe your project in brief -->
 
+**Optimizing Electric Vehicle Charging Stations for Increased Use**
+
 Electric Vehicles are a growing market that we want to encourage, but the infrastructure to support this burgeoning market just isn't quite there.
 
 That's where EV-Queue comes in: dashboards that offer predicted wait times per station for consumers, so they can see in real time the number of spots available at each station, and self select where they'd like to go to charge their vehicle.
@@ -40,7 +42,7 @@ Find the [User Dashboard](https://public.tableau.com/app/profile/celia.sagastume
 
 ![Station Owner Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/StationDashboard.png)
 
-Find the [Station Owner Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/StationDashboard.png) here. 
+Find the [Station Owner Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/StationDashboard.png) here.
 
 
 # Table of contents
