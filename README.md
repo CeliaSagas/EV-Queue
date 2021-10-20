@@ -42,7 +42,7 @@ Find the [User Dashboard](https://public.tableau.com/app/profile/celia.sagastume
 
 ![Station Owner Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/StationDashboard.png)
 
-Find the [Station Owner Dashboard](https://github.com/CeliaSagas/EV-Queue/blob/3255463ca3e10f165698d1ac0fc2dc03dc9a994b/img/StationDashboard.png) here.
+Find the [Station Owner Dashboard](https://public.tableau.com/app/profile/celia.sagastume/viz/PaloAltoElectricVehicleChargingStations-StationDashboard/StationDashboard) here.
 
 
 # Table of contents
